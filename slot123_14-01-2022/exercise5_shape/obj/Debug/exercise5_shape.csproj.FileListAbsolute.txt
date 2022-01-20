@@ -1,0 +1,7 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise5_shape\bin\Debug\exercise5_shape.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise5_shape\bin\Debug\exercise5_shape.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise5_shape\obj\Debug\exercise5_shape.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise5_shape\obj\Debug\exercise5_shape.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise5_shape\obj\Debug\exercise5_shape.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise5_shape\obj\Debug\exercise5_shape.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise5_shape\obj\Debug\exercise5_shape.pdb

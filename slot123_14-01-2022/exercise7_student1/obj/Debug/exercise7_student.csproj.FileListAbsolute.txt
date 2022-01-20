@@ -1,0 +1,7 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise7_student\bin\Debug\exercise7_student.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise7_student\bin\Debug\exercise7_student.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise7_student\obj\Debug\exercise7_student.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise7_student\obj\Debug\exercise7_student.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise7_student\obj\Debug\exercise7_student.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise7_student\obj\Debug\exercise7_student.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\Onclass\slot123_14-01-2022\exercise7_student\obj\Debug\exercise7_student.pdb

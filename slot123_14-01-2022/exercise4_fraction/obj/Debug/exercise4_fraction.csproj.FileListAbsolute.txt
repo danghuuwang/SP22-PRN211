@@ -1,0 +1,7 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_14-01-2022\exercise4_fraction\bin\Debug\exercise4_fraction.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_14-01-2022\exercise4_fraction\bin\Debug\exercise4_fraction.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_14-01-2022\exercise4_fraction\obj\Debug\exercise4_fraction.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_14-01-2022\exercise4_fraction\obj\Debug\exercise4_fraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_14-01-2022\exercise4_fraction\obj\Debug\exercise4_fraction.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_14-01-2022\exercise4_fraction\obj\Debug\exercise4_fraction.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_14-01-2022\exercise4_fraction\obj\Debug\exercise4_fraction.pdb
