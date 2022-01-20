@@ -1,0 +1,7 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise6_GuessingGame\bin\Debug\Exercise6_GuessingGame.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise6_GuessingGame\bin\Debug\Exercise6_GuessingGame.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise6_GuessingGame\obj\Debug\Exercise6_GuessingGame.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise6_GuessingGame\obj\Debug\Exercise6_GuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise6_GuessingGame\obj\Debug\Exercise6_GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise6_GuessingGame\obj\Debug\Exercise6_GuessingGame.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise6_GuessingGame\obj\Debug\Exercise6_GuessingGame.pdb

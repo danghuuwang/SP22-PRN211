@@ -1,0 +1,15 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\bin\Debug\net6.0\Exercise1_HelloWorld.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\bin\Debug\net6.0\Exercise1_HelloWorld.deps.json
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\bin\Debug\net6.0\Exercise1_HelloWorld.runtimeconfig.json
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\bin\Debug\net6.0\Exercise1_HelloWorld.dll
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\bin\Debug\net6.0\ref\Exercise1_HelloWorld.dll
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\bin\Debug\net6.0\Exercise1_HelloWorld.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\Exercise1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\Exercise1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\Exercise1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\Exercise1_HelloWorld.AssemblyInfo.cs
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\Exercise1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\Exercise1_HelloWorld.dll
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\ref\Exercise1_HelloWorld.dll
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\Exercise1_HelloWorld.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise1_HelloWorld\obj\Debug\net6.0\Exercise1_HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise5_PrimeNumber\bin\Debug\Exercise5_PrimeNumber.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise5_PrimeNumber\bin\Debug\Exercise5_PrimeNumber.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise5_PrimeNumber\obj\Debug\Exercise5_PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise5_PrimeNumber\obj\Debug\Exercise5_PrimeNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise5_PrimeNumber\obj\Debug\Exercise5_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise5_PrimeNumber\obj\Debug\Exercise5_PrimeNumber.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise5_PrimeNumber\obj\Debug\Exercise5_PrimeNumber.pdb

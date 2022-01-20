@@ -1,0 +1,7 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise4_QuadraticEquation\bin\Debug\Exercise4_QuadraticEquation.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise4_QuadraticEquation\bin\Debug\Exercise4_QuadraticEquation.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise4_QuadraticEquation\obj\Debug\Exercise4_QuadraticEquation.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise4_QuadraticEquation\obj\Debug\Exercise4_QuadraticEquation.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise4_QuadraticEquation\obj\Debug\Exercise4_QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise4_QuadraticEquation\obj\Debug\Exercise4_QuadraticEquation.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise4_QuadraticEquation\obj\Debug\Exercise4_QuadraticEquation.pdb

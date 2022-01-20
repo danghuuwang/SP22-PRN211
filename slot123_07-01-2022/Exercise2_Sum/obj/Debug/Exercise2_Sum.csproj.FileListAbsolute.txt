@@ -1,0 +1,7 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise2_Sum\bin\Debug\Exercise2_Sum.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise2_Sum\bin\Debug\Exercise2_Sum.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise2_Sum\obj\Debug\Exercise2_Sum.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise2_Sum\obj\Debug\Exercise2_Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise2_Sum\obj\Debug\Exercise2_Sum.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise2_Sum\obj\Debug\Exercise2_Sum.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise2_Sum\obj\Debug\Exercise2_Sum.pdb

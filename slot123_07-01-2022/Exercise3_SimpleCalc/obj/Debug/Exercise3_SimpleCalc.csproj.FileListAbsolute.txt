@@ -1,0 +1,7 @@
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise3_SimpleCalc\bin\Debug\Exercise3_SimpleCalc.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise3_SimpleCalc\bin\Debug\Exercise3_SimpleCalc.pdb
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise3_SimpleCalc\obj\Debug\Exercise3_SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise3_SimpleCalc\obj\Debug\Exercise3_SimpleCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise3_SimpleCalc\obj\Debug\Exercise3_SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise3_SimpleCalc\obj\Debug\Exercise3_SimpleCalc.exe
+C:\Users\huuwang\Desktop\Learning\Semester 5\PRN211\From syllabus\Onclass\slot123_07-01-2022\Exercise3_SimpleCalc\obj\Debug\Exercise3_SimpleCalc.pdb
